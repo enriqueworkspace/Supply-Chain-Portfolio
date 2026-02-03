@@ -1,0 +1,274 @@
+Contract_ID,Contract_Start_Date,Contract_End_Date,One_Time_Extension,Extension_Justification,Penalty_Clause_Active
+CTR-342,2022-05-24,2025-04-25,False,,True
+CTR-158,2021-11-23,2025-11-12,False,,False
+CTR-388,2022-06-10,2025-03-31,False,,False
+CTR-211,2024-03-28,2025-06-22,False,,False
+CTR-338,2023-02-06,2025-09-24,False,,False
+CTR-231,2023-08-22,2026-04-13,True,Mutual agreement for continuity,True
+CTR-288,2024-12-28,2026-09-19,False,,True
+CTR-185,2023-12-15,2025-02-28,True,Supply shortage due to geopolitical event,False
+CTR-183,2022-07-10,2023-08-01,False,,False
+CTR-259,2023-02-18,2024-04-24,False,,False
+CTR-155,2024-08-31,2026-03-21,True,Vendor production delay accepted,False
+CTR-396,2023-12-12,2026-10-03,False,,False
+CTR-113,2022-06-30,2024-09-26,False,,False
+CTR-394,2021-12-19,2023-04-29,False,,False
+CTR-292,2024-11-24,2026-02-26,False,,False
+CTR-303,2022-05-03,2024-04-06,False,,True
+CTR-201,2025-03-25,2026-07-28,False,,False
+CTR-138,2023-04-10,2024-05-22,False,,True
+CTR-224,2023-07-10,2025-10-24,True,Mutual agreement for continuity,True
+CTR-152,2024-07-22,2025-09-11,False,,False
+CTR-254,2023-02-16,2024-08-06,False,,True
+CTR-161,2022-02-09,2024-09-18,False,,True
+CTR-389,2022-12-09,2025-02-24,False,,True
+CTR-121,2023-04-01,2025-05-09,True,Mutual agreement for continuity,False
+CTR-277,2022-03-27,2024-08-16,True,Mutual agreement for continuity,False
+CTR-372,2024-04-30,2025-11-27,False,,False
+CTR-319,2022-08-28,2024-09-22,False,,True
+CTR-289,2024-11-20,2025-11-23,True,Vendor production delay accepted,False
+CTR-135,2025-03-15,2027-05-25,False,,False
+CTR-359,2022-01-02,2023-06-27,False,,True
+CTR-274,2024-12-01,2026-11-28,False,,False
+CTR-106,2025-03-21,2026-10-26,False,,True
+CTR-315,2023-10-30,2025-05-08,True,Supply shortage due to geopolitical event,False
+CTR-350,2024-02-02,2025-11-09,False,,False
+CTR-154,2025-01-27,2026-11-09,False,,False
+CTR-321,2024-12-16,2027-03-17,False,,True
+CTR-285,2023-01-24,2024-06-24,False,,False
+CTR-335,2022-06-16,2023-07-21,False,,False
+CTR-178,2023-09-10,2026-05-30,False,,False
+CTR-322,2022-06-27,2025-03-22,True,Price renegotiation pending,False
+CTR-190,2022-12-20,2025-09-11,False,,False
+CTR-367,2022-12-03,2024-08-10,False,,True
+CTR-238,2023-01-16,2025-11-08,True,Mutual agreement for continuity,False
+CTR-375,2024-11-01,2026-08-30,False,,False
+CTR-347,2022-04-16,2024-09-07,True,Force majeure – port strike,False
+CTR-323,2022-04-13,2024-06-07,False,,True
+CTR-237,2021-11-04,2024-05-20,False,,False
+CTR-265,2024-06-10,2026-10-13,False,,True
+CTR-225,2023-09-28,2024-11-28,False,,False
+CTR-144,2024-10-29,2026-01-02,False,,False
+CTR-242,2023-07-24,2025-05-05,False,,False
+CTR-330,2024-11-08,2026-12-05,False,,True
+CTR-337,2022-06-06,2023-10-24,False,,False
+CTR-391,2024-02-27,2026-05-01,True,Vendor production delay accepted,True
+CTR-294,2024-06-04,2025-12-25,False,,True
+CTR-272,2022-04-16,2025-02-02,True,Mutual agreement for continuity,False
+CTR-114,2023-06-19,2025-12-08,False,,False
+CTR-353,2023-02-08,2024-10-20,False,,False
+CTR-266,2022-01-03,2024-10-09,True,Vendor production delay accepted,False
+CTR-193,2024-12-04,2027-06-13,False,,False
+CTR-349,2023-07-23,2024-08-10,False,,False
+CTR-208,2022-11-05,2024-11-30,False,,True
+CTR-281,2023-12-17,2026-12-16,True,Force majeure – port strike,False
+CTR-232,2024-12-21,2026-12-23,False,,False
+CTR-243,2023-12-05,2026-04-09,False,,True
+CTR-241,2024-10-24,2027-05-04,False,,True
+CTR-384,2022-11-11,2025-03-21,False,,False
+CTR-105,2024-08-24,2026-08-11,False,,True
+CTR-364,2022-10-03,2025-05-04,True,Mutual agreement for continuity,True
+CTR-197,2021-11-12,2024-04-09,False,,True
+CTR-143,2021-11-19,2023-10-14,False,,False
+CTR-223,2024-12-27,2027-01-28,False,,False
+CTR-308,2023-07-25,2025-04-26,False,,True
+CTR-343,2024-04-24,2025-10-25,False,,False
+CTR-351,2024-08-17,2025-09-12,False,,False
+CTR-329,2025-03-24,2027-02-13,False,,False
+CTR-108,2024-07-11,2027-03-14,False,,True
+CTR-147,2025-03-26,2026-11-05,False,,False
+CTR-250,2024-05-18,2025-11-28,False,,False
+CTR-213,2022-07-07,2024-04-19,False,,False
+CTR-307,2023-05-09,2024-07-06,False,,True
+CTR-256,2022-05-13,2024-09-07,False,,False
+CTR-397,2022-05-25,2024-11-17,False,,False
+CTR-383,2023-11-05,2025-11-05,False,,False
+CTR-371,2024-05-12,2026-12-31,False,,True
+CTR-276,2023-03-19,2024-11-11,False,,True
+CTR-317,2024-08-02,2026-01-12,False,,False
+CTR-381,2023-10-16,2025-01-25,True,Supply shortage due to geopolitical event,False
+CTR-269,2024-08-20,2026-04-30,False,,True
+CTR-280,2025-02-17,2027-12-21,False,,False
+CTR-332,2023-06-02,2025-02-02,False,,True
+CTR-228,2022-11-21,2024-08-19,False,,False
+CTR-218,2023-10-09,2026-04-07,False,,False
+CTR-198,2022-05-12,2023-07-08,True,Vendor production delay accepted,False
+CTR-261,2024-12-09,2026-07-21,False,,False
+CTR-374,2023-10-28,2026-06-08,True,Mutual agreement for continuity,True
+CTR-194,2022-01-24,2024-02-25,False,,False
+CTR-210,2024-11-12,2026-11-10,False,,True
+CTR-368,2022-07-07,2023-12-31,False,,False
+CTR-244,2022-09-29,2024-03-27,True,Mutual agreement for continuity,False
+CTR-151,2022-06-07,2024-02-04,False,,False
+CTR-199,2023-04-12,2025-12-08,False,,True
+CTR-251,2024-12-26,2026-11-16,False,,False
+CTR-216,2022-06-30,2025-06-13,False,,True
+CTR-284,2022-02-13,2024-02-15,False,,True
+CTR-191,2024-05-12,2027-01-07,True,Vendor production delay accepted,False
+CTR-107,2023-03-27,2024-04-23,False,,False
+CTR-373,2024-05-31,2027-05-21,True,Force majeure – port strike,False
+CTR-164,2023-11-13,2026-10-30,True,Vendor production delay accepted,False
+CTR-240,2024-09-20,2026-09-15,False,,True
+CTR-123,2022-01-29,2024-09-01,False,,False
+CTR-127,2024-08-25,2027-03-25,False,,False
+CTR-249,2024-01-07,2025-05-31,False,,True
+CTR-393,2022-06-11,2025-01-07,False,,False
+CTR-245,2025-04-13,2026-10-22,True,Price renegotiation pending,False
+CTR-340,2025-01-18,2027-06-06,True,Supply shortage due to geopolitical event,False
+CTR-345,2025-03-24,2027-09-30,True,Force majeure – port strike,False
+CTR-325,2023-12-05,2025-10-16,False,,False
+CTR-126,2025-01-14,2026-07-12,False,,False
+CTR-229,2022-08-26,2025-01-09,False,,False
+CTR-344,2023-04-04,2024-05-11,True,Supply shortage due to geopolitical event,True
+CTR-133,2023-02-24,2026-01-17,False,,False
+CTR-305,2024-06-15,2025-08-11,False,,False
+CTR-137,2024-04-17,2025-12-11,False,,False
+CTR-395,2025-02-05,2027-10-14,True,Supply shortage due to geopolitical event,False
+CTR-177,2022-03-13,2023-10-23,True,Vendor production delay accepted,False
+CTR-176,2022-12-12,2024-01-01,True,Price renegotiation pending,False
+CTR-255,2024-01-15,2026-07-07,True,Mutual agreement for continuity,True
+CTR-227,2023-06-29,2025-10-30,False,,False
+CTR-160,2023-11-27,2024-11-26,False,,False
+CTR-385,2022-12-18,2024-11-21,False,,True
+CTR-313,2023-07-03,2026-03-22,False,,False
+CTR-215,2023-10-11,2025-05-04,False,,False
+CTR-326,2024-11-10,2026-03-23,False,,False
+CTR-252,2022-02-03,2024-01-17,True,Price renegotiation pending,True
+CTR-130,2023-03-17,2025-12-26,False,,True
+CTR-150,2024-08-17,2026-07-14,False,,False
+CTR-206,2022-06-25,2023-08-24,True,Force majeure – port strike,True
+CTR-235,2025-01-01,2026-01-23,True,Price renegotiation pending,False
+CTR-141,2024-04-16,2025-09-14,False,,False
+CTR-180,2024-01-17,2026-09-08,False,,True
+CTR-222,2022-05-28,2025-05-18,False,,True
+CTR-188,2025-01-14,2026-06-08,False,,False
+CTR-382,2023-01-18,2024-05-10,False,,False
+CTR-101,2024-11-28,2025-11-13,True,Supply shortage due to geopolitical event,False
+CTR-309,2022-09-09,2024-09-16,False,,False
+CTR-116,2023-09-18,2024-11-30,True,Mutual agreement for continuity,True
+CTR-247,2023-07-22,2025-08-07,True,Price renegotiation pending,False
+CTR-136,2023-06-18,2026-06-08,False,,False
+CTR-219,2024-10-24,2027-09-02,False,,False
+CTR-378,2022-03-13,2024-04-21,False,,False
+CTR-236,2022-09-26,2025-05-18,False,,False
+CTR-172,2025-04-02,2025-12-09,False,,True
+CTR-184,2023-03-25,2025-03-03,False,,False
+CTR-257,2024-03-04,2026-01-07,True,Mutual agreement for continuity,True
+CTR-324,2023-08-30,2025-07-25,True,Price renegotiation pending,True
+CTR-163,2022-02-19,2023-07-08,False,,False
+CTR-339,2023-08-05,2025-01-12,False,,False
+CTR-306,2021-10-21,2024-01-11,False,,False
+CTR-239,2023-12-09,2026-09-23,False,,False
+CTR-356,2022-09-11,2025-01-21,False,,False
+CTR-376,2023-03-26,2026-01-18,True,Mutual agreement for continuity,True
+CTR-352,2021-12-24,2023-11-13,False,,False
+CTR-120,2022-07-13,2024-01-07,False,,False
+CTR-146,2024-03-14,2027-03-08,False,,False
+CTR-217,2022-03-26,2024-10-21,False,,False
+CTR-110,2023-12-03,2026-11-12,False,,True
+CTR-189,2024-06-14,2027-03-04,False,,False
+CTR-365,2025-04-05,2027-04-05,False,,False
+CTR-192,2022-12-31,2024-08-15,False,,True
+CTR-399,2025-03-01,2028-01-11,False,,False
+CTR-278,2023-12-28,2026-08-22,False,,False
+CTR-270,2022-04-05,2023-10-01,False,,False
+CTR-264,2023-05-10,2025-05-31,False,,False
+CTR-153,2025-03-30,2027-02-07,False,,True
+CTR-182,2023-06-02,2026-05-07,False,,True
+CTR-268,2025-04-16,2027-02-11,False,,True
+CTR-310,2023-03-10,2024-07-17,False,,False
+CTR-118,2023-07-29,2025-01-25,False,,True
+CTR-145,2024-09-18,2025-09-19,False,,True
+CTR-159,2024-02-23,2027-02-10,False,,False
+CTR-363,2022-04-29,2024-12-05,False,,False
+CTR-100,2023-12-18,2026-01-21,True,Price renegotiation pending,False
+CTR-377,2022-12-11,2025-07-14,False,,True
+CTR-336,2022-07-16,2025-12-09,True,Force majeure – port strike,True
+CTR-311,2024-12-17,2026-06-21,False,,True
+CTR-196,2024-07-01,2027-03-09,False,,False
+CTR-355,2023-09-23,2025-08-13,False,,False
+CTR-204,2024-10-10,2027-06-28,False,,False
+CTR-167,2025-01-19,2026-09-02,False,,True
+CTR-348,2023-12-31,2026-10-15,True,Mutual agreement for continuity,False
+CTR-162,2022-05-20,2024-12-19,False,,True
+CTR-181,2022-12-25,2024-04-09,False,,False
+CTR-360,2023-03-18,2025-08-07,True,Vendor production delay accepted,False
+CTR-312,2022-09-23,2024-02-14,True,Supply shortage due to geopolitical event,False
+CTR-341,2024-10-27,2026-10-01,False,,True
+CTR-333,2022-01-15,2023-04-04,False,,True
+CTR-174,2024-10-05,2026-06-05,False,,False
+CTR-296,2022-06-18,2024-06-07,False,,True
+CTR-169,2024-07-19,2026-06-11,False,,True
+CTR-328,2023-02-01,2024-07-21,False,,True
+CTR-293,2024-11-16,2025-11-14,False,,True
+CTR-392,2021-12-23,2023-03-23,False,,False
+CTR-122,2022-02-11,2025-02-05,False,,False
+CTR-262,2024-12-12,2027-10-29,False,,True
+CTR-295,2022-11-10,2025-08-25,False,,False
+CTR-297,2024-07-25,2026-07-03,False,,False
+CTR-357,2023-12-21,2026-03-22,True,Mutual agreement for continuity,False
+CTR-369,2023-08-30,2024-09-09,False,,False
+CTR-173,2023-11-01,2025-07-29,False,,False
+CTR-179,2023-07-13,2025-02-11,False,,True
+CTR-273,2023-02-04,2024-10-16,False,,False
+CTR-220,2023-06-20,2026-05-29,False,,False
+CTR-327,2023-07-07,2024-09-13,True,Supply shortage due to geopolitical event,False
+CTR-253,2022-10-04,2024-09-26,False,,False
+CTR-128,2023-10-10,2025-06-28,False,,False
+CTR-283,2023-12-27,2025-04-15,False,,False
+CTR-291,2024-11-17,2025-11-18,False,,True
+CTR-320,2024-02-28,2025-04-17,False,,False
+CTR-187,2024-07-14,2026-08-13,False,,False
+CTR-140,2022-01-07,2024-03-30,False,,False
+CTR-354,2024-09-07,2026-11-10,False,,True
+CTR-398,2024-06-04,2025-11-21,False,,False
+CTR-230,2024-09-14,2026-11-11,False,,True
+CTR-104,2024-05-17,2026-10-03,True,Price renegotiation pending,True
+CTR-379,2022-10-11,2024-11-01,False,,False
+CTR-221,2022-09-07,2024-08-31,False,,True
+CTR-111,2023-07-15,2026-01-24,False,,False
+CTR-302,2023-01-07,2025-01-25,False,,True
+CTR-125,2024-08-14,2025-11-25,False,,False
+CTR-246,2022-04-17,2024-08-19,True,Price renegotiation pending,True
+CTR-212,2023-04-16,2025-11-27,False,,True
+CTR-170,2024-02-18,2026-12-15,False,,True
+CTR-149,2022-10-06,2025-09-08,False,,True
+CTR-258,2023-07-27,2025-03-13,True,Price renegotiation pending,True
+CTR-117,2022-09-13,2024-02-26,False,,True
+CTR-286,2023-10-24,2026-01-28,False,,False
+CTR-267,2024-08-16,2025-10-30,True,Price renegotiation pending,True
+CTR-202,2024-10-15,2025-11-18,False,,False
+CTR-287,2024-05-31,2026-03-28,True,Price renegotiation pending,False
+CTR-346,2023-08-04,2024-08-23,False,,False
+CTR-234,2021-11-30,2023-10-22,False,,False
+CTR-290,2025-01-26,2026-10-20,False,,False
+CTR-112,2024-02-03,2025-05-20,False,,True
+CTR-387,2023-06-17,2024-08-30,False,,True
+CTR-132,2024-06-19,2026-06-04,False,,False
+CTR-171,2024-10-14,2026-04-06,True,Force majeure – port strike,True
+CTR-119,2023-11-27,2025-12-15,False,,True
+CTR-298,2023-04-21,2024-10-01,False,,True
+CTR-314,2023-01-28,2024-04-13,False,,True
+CTR-131,2022-06-02,2024-12-13,False,,True
+CTR-205,2025-01-08,2025-11-05,False,,False
+CTR-175,2023-08-15,2025-07-26,False,,True
+CTR-166,2023-11-03,2026-07-03,False,,False
+CTR-156,2024-04-27,2027-01-15,False,,True
+CTR-362,2025-02-14,2027-06-23,False,,True
+CTR-331,2023-01-11,2026-01-01,False,,False
+CTR-366,2022-10-05,2023-11-05,False,,True
+CTR-334,2022-03-07,2024-05-21,False,,False
+CTR-115,2022-03-19,2025-01-16,False,,False
+CTR-318,2023-11-24,2025-05-10,False,,True
+CTR-380,2024-10-07,2027-06-20,False,,False
+CTR-358,2022-09-15,2024-12-02,False,,True
+CTR-304,2024-09-22,2026-03-01,False,,False
+CTR-148,2024-07-06,2025-08-29,False,,True
+CTR-260,2024-08-13,2025-11-24,True,Supply shortage due to geopolitical event,False
+CTR-134,2025-03-25,2027-02-27,True,Mutual agreement for continuity,True
+CTR-316,2024-12-13,2026-07-11,True,Force majeure – port strike,False
+CTR-214,2024-01-19,2025-07-31,False,,False
+CTR-279,2024-07-25,2026-09-17,False,,False
+CTR-103,2024-03-09,2027-02-20,False,,False
+CTR-390,2023-01-19,2025-08-08,False,,False
+CTR-248,2023-03-18,2025-09-21,False,,False
