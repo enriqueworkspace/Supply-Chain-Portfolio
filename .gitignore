@@ -1,0 +1,37 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary / cache files
+*.pbix.cache
+*.pbit
+*.tmp
+*.pbix.backup
+*.pbix~*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+*.egg-info/
+*.egg
+
+# Large local datasets (uncomment if you have huge raw files)
+# /data/raw/*.csv
+# /data/raw/*.xlsx
+
+# Power BI dataflows / gateways (if you use them later)
+*.dataflow
+*.gateway
+
+# Keep these tracked (uncomment if needed)
+# !/data/*.csv          # synthetic CSVs should be committed
+# !/scripts/*.py        # Python scripts
+# !/pbix/*.pbix         # final .pbix file
